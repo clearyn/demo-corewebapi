@@ -22,7 +22,6 @@ C:\Users\ryncl\Desktop\SESI13\demo-corewebapi\demo-corewebapi\obj\Debug\net5.0\s
 C:\Users\ryncl\Desktop\SESI13\demo-corewebapi\demo-corewebapi\obj\Debug\net5.0\staticwebassets\demo-corewebapi.StaticWebAssets.xml
 C:\Users\ryncl\Desktop\SESI13\demo-corewebapi\demo-corewebapi\obj\Debug\net5.0\scopedcss\bundle\demo-corewebapi.styles.css
 C:\Users\ryncl\Desktop\SESI13\demo-corewebapi\demo-corewebapi\obj\Debug\net5.0\demo-corewebapi.RazorTargetAssemblyInfo.cache
-C:\Users\ryncl\Desktop\SESI13\demo-corewebapi\demo-corewebapi\obj\Debug\net5.0\demo-corewebapi.csproj.CopyComplete
 C:\Users\ryncl\Desktop\SESI13\demo-corewebapi\demo-corewebapi\obj\Debug\net5.0\demo-corewebapi.dll
 C:\Users\ryncl\Desktop\SESI13\demo-corewebapi\demo-corewebapi\obj\Debug\net5.0\ref\demo-corewebapi.dll
 C:\Users\ryncl\Desktop\SESI13\demo-corewebapi\demo-corewebapi\obj\Debug\net5.0\demo-corewebapi.pdb
